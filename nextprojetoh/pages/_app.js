@@ -2,7 +2,13 @@ import '../styles/globals.css'
 
 
 function MyApp({ Component, pageProps }) {
-  return(  <Component {...pageProps} />
+  return(
+    <>
+      <Head>
+          <title>Portifólio</title>
+      </Head>
+      <Component {...pageProps} />
+    </>  
     
   )
 }
