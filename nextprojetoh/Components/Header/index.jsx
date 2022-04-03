@@ -19,7 +19,7 @@ export default function Header(){
       <Content>
         <ContentTitle>
           <Title>
-            William Lucas
+            José Despreocupado
           </Title>
           <SubTitle>
             Portfolio Pessoal
